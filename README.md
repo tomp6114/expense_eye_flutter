@@ -71,6 +71,5 @@ expense_tracker/
    ```bash
    git clone https://github.com/yourusername/expense_tracker.git
    cd expense_tracker
-```
 
 
