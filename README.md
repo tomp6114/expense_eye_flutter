@@ -1,16 +1,20 @@
-# expense_eye_flutter
+# 💰 Flutter Expense Tracker
 
-A new Flutter project.
+A modern **expense tracker app built with Flutter**. Track your income, expenses, budgets, and get insights into your spending habits — all in one place.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots (Coming Soon)
+<!-- Add app screenshots here once ready -->
+<p align="center">
+  <img src="assets/images/demo1.png" width="250" />
+  <img src="assets/images/demo2.png" width="250" />
+  <img src="assets/images/demo3.png" width="250" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📁 Project Structure
+bash
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
