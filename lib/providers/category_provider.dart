@@ -141,6 +141,8 @@ class CategoryProvider with ChangeNotifier {
     {'name': 'Insurance', 'icon': '🛡️', 'color': 0xFF009688},
     {'name': 'Rent', 'icon': '🏠', 'color': 0xFF673AB7},
     {'name': 'Others', 'icon': '📋', 'color': 0xFF9E9E9E},
+    {'name': 'Smoking', 'icon': '🚭', 'color': 0xFF4CAF50},
+    {'name': 'Others', 'icon': '🧩', 'color': 0xFF607D8B},
   ];
 
   List<Map<String, dynamic>> get defaultIncomeCategories => [
